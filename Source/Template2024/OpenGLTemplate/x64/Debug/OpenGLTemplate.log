@@ -1,0 +1,74 @@
+﻿  Audio.cpp
+  Camera.cpp
+  CatmullRom.cpp
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\CatmullRom.cpp(355,52): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\CatmullRom.cpp(356,55): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\CatmullRom.cpp(368,52): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\CatmullRom.cpp(378,53): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Cubemap.cpp
+  CubeTree.cpp
+  FaceVertexMesh.cpp
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\FaceVertexMesh.cpp(116,47): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  FrameBufferObject.cpp
+  FreeTypeFont.cpp
+  Game.cpp
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\Game.cpp(174,27): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\Game.cpp(175,29): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\Game.cpp(178,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\Game.cpp(178,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\Game.cpp(180,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\Game.cpp(180,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\Game.cpp(307,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\Game.cpp(307,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\Game.cpp(504,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\Game.cpp(510,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\Game.cpp(739,69): warning C4244: 'argument': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\Game.cpp(748,69): warning C4244: 'argument': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\Game.cpp(763,70): warning C4244: 'argument': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\Game.cpp(765,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\Game.cpp(927,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\Game.cpp(953,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\Game.cpp(1015,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\Game.cpp(1029,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\Game.cpp(1048,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\Game.cpp(1126,11): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\Game.cpp(1128,11): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\Game.cpp(1130,11): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\Game.cpp(1139,20): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\Game.cpp(1144,22): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\Game.cpp(1149,22): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\Game.cpp(1225,20): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\Game.cpp(1280,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  GameWindow.cpp
+  HeightMapTerrain.cpp
+  HighResolutionTimer.cpp
+  MatrixStack.cpp
+  OpenAssetImportMesh.cpp
+  Plane.cpp
+  Shaders.cpp
+  Skybox.cpp
+  Snow.cpp
+C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\OpenGLTemplate\Snow.cpp(29,74): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  Sphere.cpp
+  Texture.cpp
+  Generating Code...
+  Compiling...
+  Tree.cpp
+  VertexBufferObject.cpp
+  VertexBufferObjectIndexed.cpp
+  Generating Code...
+     Creating library C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\x64\Debug\OpenGLTemplate.lib and object C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\x64\Debug\OpenGLTemplate.exp
+MSVCRTD.lib(initializers.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLTemplate.vcxproj -> C:\Users\Nitin Kumar\Desktop\City\Computer Graphics\Coursework - Nitin Kumar - Code\Source\Template2024\x64\Debug\OpenGLTemplate.exe
